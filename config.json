@@ -1,0 +1,1 @@
+{"base_url":"https://inference.dahl.global/v1","default_model":"MiniMaxAI/MiniMax-M2.7","key_file":"/home/hatch/workspace/user/files/keys-round6.txt","max_retries_per_key":1,"max_tokens":2048,"models":["MiniMaxAI/MiniMax-M2.7","zai-org/GLM-5.3-Flash","deepseek-ai/DeepSeek-V4-Flash-0731"],"temperature":0.7,"timeout_seconds":60}
